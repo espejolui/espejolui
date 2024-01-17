@@ -22,7 +22,7 @@ Actualmente estudio una tecnología en **Análisis y Desarrollo de Software** en
 ## Mis proyectos 🔨
 
 ### TRM en Colombia
-Este es un proyecto que realice con Angular, haciendo peticiones asincronas a la API pública del Banco de la república de Colombia, además de mostrar el valor de cambio al peso Colombiano, puedes ver el historial del mismo y hacer un calculo rápido de un monto ingresado. [**Ver mas...**](https://luisespejo.com) 
+Este es un proyecto que realice con Angular, haciendo peticiones asíncronas a la API pública del Banco de la república de Colombia, además de mostrar el valor de cambio al peso Colombiano, puedes ver el historial del mismo y hacer un cálculo rápido de un monto ingresado. [**Ver más...**](https://github.com/espejolui/trm-colombia) 
 
 ## Contacto 📬
 - [**hola@luisespejo.com**](mailto:hola@luisespejo.com) ✉️
