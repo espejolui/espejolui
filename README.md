@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hola, soy Luis Espejo, Desarrollador web 💻
 
-<!--
-**espejolui/espejolui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudio una tecnología en **Análisis y Desarrollo de Software** en el Servicio Nacional de aprendizaje **SENA.**
 
-Here are some ideas to get you started:
+## Mis habilidades 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 1. Dominio alto
+- CSS
+- HTML
+- WordPress
+
+#### 2. Dominio medio
+- JavaScript
+- NodeJS
+- Framework Astro
+
+#### 3. Aprendiendo
+- Angular
+- React
+
+
+## Mis proyectos 🔨
+
+### TRM en Colombia
+Este es un proyecto que realice con Angular, haciendo peticiones asincronas a la API pública del Banco de la república de Colombia, además de mostrar el valor de cambio al peso Colombiano, puedes ver el historial del mismo y hacer un calculo rápido de un monto ingresado. [**Ver mas...**](https://luisespejo.com) 
+
+## Contacto 📬
+- [**hola@luisespejo.com**](mailto:hola@luisespejo.com) ✉️
+- [**LinkedIn**](https://www.linkedin.com/in/espejolui/) 👔
+- [**Web**](https://luisespejo.com) 🌐
+
