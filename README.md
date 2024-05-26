@@ -1,23 +1,19 @@
-# Hola, soy Luis Espejo, Desarrollador web 💻
+# Luis Espejo 
+### Desarrollador de software.
 
-Actualmente estudio una tecnología en **Análisis y Desarrollo de Software** en el Servicio Nacional de aprendizaje **SENA.**
+Soy estudiante tecnólogo en desarrollo de software, tengo tres años de experiencia en desarrollo web usando Angular, React, Astro, NodeJS, y WordPress. También cuento con dos años de experiencia en marketing digital enfocado en Google Ads, Facebook Ads.
 
-## Mis proyectos 🔨
+## Proyectos 👨‍💻
 
-### TRM en Colombia
+- #### TRM
 
-Este es un proyecto que realice con Angular, haciendo peticiones asíncronas a la API pública del Banco de la república de Colombia, además de mostrar el valor de cambio al peso Colombiano, puedes ver el historial del mismo y hacer un cálculo rápido de un monto ingresado, puedes ver el [**repositorio**](https://github.com/espejolui/trm) o la [**web**](https://trmcolombia.netlify.app/)
+  Proyecto con Angular y ChartJS, para ver historial y hacer un cambio de dólar a peso colombiano rápidamente. [**Web**](https://trmcolombia.netlify.app/), [**Repositorio**](https://github.com/espejolui/trm)
 
-## Mis habilidades 🚀
-- JavaScript
-- NodeJS
-- Angular
-- Astro
-- CSS
-- HTML
-- WordPress
+- #### Página en WordPress (freelance)
 
-## Contacto 📬
-- [**hola@luisespejo.com**](mailto:hola@luisespejo.com) ✉️
-- [**LinkedIn**](https://www.linkedin.com/in/espejolui/) 👔
-- [**Web**](https://luisespejo.com) 🌐
+  Proyecto con WordPress como freelance en 2021, para una empresa de servicios de ingeniería eléctrica. [**Web**](https://www.factordepotenciagyesas.com/)
+
+## Contáctame 📬
+- [**Portafolio**](https://luisespejo.com)
+- [**LinkedIn**](https://www.linkedin.com/in/espejolui/)
+- [**hola@luisespejo.com**](mailto:hola@luisespejo.com)
