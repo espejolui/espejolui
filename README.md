@@ -14,6 +14,5 @@ Soy estudiante tecnólogo en desarrollo de software, tengo tres años de experie
   Proyecto con WordPress como freelance en 2021, para una empresa de servicios de ingeniería eléctrica. [**Web**](https://www.factordepotenciagyesas.com/)
 
 ## Contáctame 📬
-- [**Portafolio**](https://luisespejo.com)
-- [**LinkedIn**](https://www.linkedin.com/in/espejolui/)
-- [**hola@luisespejo.com**](mailto:hola@luisespejo.com)
+- [**Portafolio**](https://luisespejo.vercel.app/)
+- [**herrera.espejo.luis@gmail.com**](mailto:herrera.espejo.luis@gmail.com)
