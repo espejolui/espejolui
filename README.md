@@ -1,7 +1,7 @@
-# Luis Espejo 
-## Desarrollador de software.
+# Luis Herrera 
+## Tecnólogo en Análisis y Desarrollo de Software.
 
-Soy Tecnólogo en Análisis y Desarrollo de  Software, formado en el Servicio Nacional de Aprendizaje (SENA). Empecé  con proyectos personales usando WordPress, esto me impulso a conocer del desarrollo web con otras tecnologías como React, Angular y NodeJS, entre otras técnologías; colaborando con otras empresas en modalidad de freelance.
+Empecé con proyectos personales usando WordPress, esto me impulso a conocer del desarrollo web con JS Vanilla y Python. Luego fui implementando frameworks y librerías para el frontend y backend, tales como React, Angular, Astro, NodeJS, entre otras técnologías.
 
 ### Proyectos 👨‍💻
 
