@@ -1,7 +1,7 @@
 # Luis Espejo 
 ## Desarrollador de software.
 
-Estudiante de tecnólogo en análisis y desarrollo de software, en Servicio Nacional de Aprendizaje(SENA). Dos años de experiencia en desarrollo web usando Angular, React, Astro, NodeJS, y WordPress. aplicando un buen SEO y SEM por medio de Google Ads y Facebook Ads.
+Soy Tecnólogo en Análisis y Desarrollo de  Software, formado en el Servicio Nacional de Aprendizaje (SENA). Empecé  con proyectos personales usando WordPress, esto me impulso a conocer del desarrollo web con otras tecnologías como React, Angular y NodeJS, entre otras técnologías; colaborando con otras empresas en modalidad de freelance.
 
 ### Proyectos 👨‍💻
 
@@ -9,9 +9,8 @@ Estudiante de tecnólogo en análisis y desarrollo de software, en Servicio Naci
 
   Proyecto con Angular y ChartJS, para ver historial y hacer un cambio de dólar a peso colombiano rápidamente. [**Web**](https://trmcolombia.netlify.app/), [**Repositorio**](https://github.com/espejolui/trm)
 
-- ##### Página en WordPress (freelance)
-
-  Proyecto con WordPress como freelance en 2021, para una empresa de servicios de ingeniería eléctrica. [**Web**](https://www.factordepotenciagyesas.com/)
+- #### Memory Game
+  Juego para ejercitar la memoría, hecho en Python: [**Repositorio**](https://github.com/espejolui/memory)
 
 ### Contáctame 📬
 - [**Portafolio**](https://luisespejo.vercel.app/)
