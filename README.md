@@ -1,5 +1,5 @@
 # Luis Herrera 
-## Tecnólogo en Análisis y Desarrollo de Software.
+## Software Developer
 
 Soy tecnólogo en desarrollo y análisis de software, con experiencia en desarrollo web usando, JavaScript, HTML, CSS, Node.js, Python y WordPress. Esto me ha permitido trabajar como desarrollador web y webmaster, realizando proyectos con React y Angular, optimizando el responsive y el SEO de estos sitios, logrando una mayor taza de conversión.
 
