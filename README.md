@@ -1,7 +1,9 @@
 # Luis Herrera 
-## Software Developer
+## Ingeniero de Software
 
-Soy tecnólogo en desarrollo y análisis de software, con experiencia en desarrollo web usando, JavaScript, HTML, CSS, Node.js, Python y WordPress. Esto me ha permitido trabajar como desarrollador web y webmaster, realizando proyectos con React y Angular, optimizando el responsive y el SEO de estos sitios, logrando una mayor taza de conversión.
+Estudiante de ingeniería de software de quinto semestre, con experiencia en Angular, React, Astro, jQuery. Creación de APIs con Node.js, Python y .NET.
+
+Implementación de proyectos en WordPress y Adobe Experience Manager (AEM). Permitiéndome trabajar como desarrollador web y webmaster, optimizando el responsive y el SEO de estos sitios, logrando una mayor tasa de conversión, gracias a una buena navegabilidad y tiempo de carga.
 
 ### Proyectos 👨‍💻
 
