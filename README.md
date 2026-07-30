@@ -3,11 +3,11 @@ Desarrollador de software con 3 años de experiencia diseñando APIs, automatiza
 
 ## Proyectos Frontend
 
-- ##### TRM
+- ##### TRM | [**Ver Web**](https://trmcolombia.netlify.app/) | [**Ver repositorio**](https://github.com/espejolui/trm)
 
-  Proyecto con Angular y ChartJS, para ver historial y hacer un cambio de dólar a peso colombiano rápidamente. [**Web**](https://trmcolombia.netlify.app/), [**Repositorio**](https://github.com/espejolui/trm)
+  Proyecto con Angular y ChartJS, para ver historial y hacer un cambio de dólar a peso colombiano rápidamente.
 
 ## Proyectos Backend
 
-- #### Memory Game
-  Juego para ejercitar la memoría, hecho en Python: [**Repositorio**](https://github.com/espejolui/memory)
+- #### Memory Game - [**Ver repositorio**](https://github.com/espejolui/memory)
+  Juego para ejercitar la memoría, hecho en Python 
